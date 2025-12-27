@@ -1,4 +1,4 @@
-package org.example;
+package org.example.exercice1;
 
 class NombreNegatifException extends Exception {
     private int valeurErronee;
