@@ -1,6 +1,3 @@
-package org.example;
-
-
 public class Main {
     public static void main(String[] args) {
         Adherent adherent = new Adherent("adherent", "adhrent pre", "test@gmail.com", "066666666", 30, 1);

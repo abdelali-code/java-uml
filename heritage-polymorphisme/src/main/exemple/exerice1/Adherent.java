@@ -1,5 +1,3 @@
-package org.example;
-
 public class Adherent extends Personne {
 
     private int numAdherent;
